@@ -1,0 +1,2 @@
+AddDefaultCharset UTF-8
+ErrorDocument 404 http://project.ua/controller/404.php
